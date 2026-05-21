@@ -159,29 +159,13 @@
       "name": "Operating Systems",
       "level": "Master",
       "icon": "fa-solid fa-desktop",
-      "keywords": [
-        "Windows",
-        "Linux",
-        "macOS",
-        "Android",
-        "iOS"
-      ]
+      "keywords": ["Windows", "Linux", "macOS", "Android", "iOS"]
     },
     {
       "name": "Tools",
       "level": "Master",
       "icon": "fa-solid fa-wrench",
-      "keywords": [
-        "Git",
-        "CI/CD",
-        "Docker",
-        "Kubernetes",
-        "PhpStorm",
-        "VS Code",
-        "Android Studio",
-        "Trello",
-        "Jira"
-      ]
+      "keywords": ["Git", "CI/CD", "Docker", "Kubernetes", "PhpStorm", "VS Code", "Android Studio", "Trello", "Jira"]
     }
   ],
   "languages": [
@@ -200,17 +184,7 @@
     {
       "name": "Hobbies",
       "icon": "fa-solid fa-star",
-      "keywords": [
-        "Reading",
-        "Music",
-        "Cooking",
-        "Photography",
-        "Video Editing",
-        "Video Games",
-        "Films",
-        "Fitness",
-        "Motocross"
-      ]
+      "keywords": ["Reading", "Music", "Cooking", "Photography", "Video Editing", "Video Games", "Films", "Fitness", "Motocross"]
     }
   ],
   "references": [],
