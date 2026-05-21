@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Fullstack Developer
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>00 32 465 49 70 17</p>
-    <p>Chaussée de charleroi</p>
-    <p>Gembloux, 5030</p>
+    <p>Chaussée de charleroi 54</p>
+    <p>Gembloux, 5030 — Belgium</p>
+    <p>+32 465 49 70 17</p>
+    <p>brichard.zafy@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Développeur d'applications polyvalent (web/mobile/desktop) passionné par les nouvelles technologies, avec une
-expérience pertinente dans l'écosystème PHP, SQL/MySQL et JavaScript. Capable de travailler de manière
-autonome, de gérer les délais et de m'intégrer efficacement dans une équipe. Je fais preuve d'une excellente
-capacité d'analyse et d'un fort esprit d'équipe.
+Versatile application developer (web/mobile/desktop) passionate about new technologies, with relevant experience in the PHP, SQL/MySQL and JavaScript ecosystem. Able to work independently, meet deadlines and integrate effectively into a team. I demonstrate strong analytical skills and a strong team spirit.
