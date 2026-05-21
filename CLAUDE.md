@@ -14,18 +14,18 @@ bundle exec jekyll serve # serves at http://localhost:4000
 
 ## Architecture
 
-| Path | Purpose |
-|------|---------|
-| `_config.yml` | Site-wide settings (name, URL, theme, plugins) |
-| `_data/socials.yml` | Social links (GitHub, GitLab, email, etc.) |
+| Path                     | Purpose                                          |
+| ------------------------ | ------------------------------------------------ |
+| `_config.yml`            | Site-wide settings (name, URL, theme, plugins)   |
+| `_data/socials.yml`      | Social links (GitHub, GitLab, email, etc.)       |
 | `_data/repositories.yml` | GitHub repos to display on the repositories page |
-| `_data/cv.yml` | CV / résumé structured data |
-| `_pages/about.md` | Homepage content (bio, profile image) |
-| `_pages/` | All site pages (CV, projects, news, profiles…) |
-| `_posts/` | Blog posts |
-| `_projects/` | Project cards |
-| `_news/` | News/announcements items |
-| `assets/` | Images, PDFs, JS, CSS |
+| `_data/cv.yml`           | CV / résumé structured data                      |
+| `_pages/about.md`        | Homepage content (bio, profile image)            |
+| `_pages/`                | All site pages (CV, projects, news, profiles…)   |
+| `_posts/`                | Blog posts                                       |
+| `_projects/`             | Project cards                                    |
+| `_news/`                 | News/announcements items                         |
+| `assets/`                | Images, PDFs, JS, CSS                            |
 
 ## Deployment
 
