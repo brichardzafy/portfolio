@@ -9,7 +9,6 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Chaussée de charleroi 54</p>
     <p>Gembloux, 5030 — Belgium</p>
     <p>+32 465 49 70 17</p>
     <p>brichard.zafy@gmail.com</p>

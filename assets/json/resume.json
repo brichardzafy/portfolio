@@ -1,200 +1,218 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Brichard ZAFY",
+    "label": "Fullstack Developer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "brichard.zafy@gmail.com",
+    "phone": "(32) 465497017",
+    "url": "https://brichardzafy.github.io/portfolio",
+    "summary": "Versatile application developer (web/mobile/desktop) passionate about new technologies, with relevant experience in the PHP, SQL/MySQL and JavaScript ecosystem. Able to work autonomously, manage deadlines and integrate effectively into a team. I demonstrate excellent analytical skills and a strong team spirit.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Chaussée de Charleroi",
+      "postalCode": "5030",
+      "city": "Gembloux",
+      "countryCode": "BE",
+      "region": "Namur"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Brichard.Z",
+        "url": "https://www.linkedin.com/in/brichard-z"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Freelance",
+      "position": "Fullstack Developer",
+      "url": "",
+      "startDate": "2025-05-01",
+      "endDate": "",
+      "summary": "Analyzing client needs and delivering various projects.",
+      "highlights": [
+        "Optimization of a website using ReactJS / NodeJS / Firebase",
+        "Redesign of a Prestashop 1.6.1.20 e-commerce site",
+        "Development of a payment plugin on Silyus 1.13.9"
+      ]
+    },
+    {
+      "name": "Webpremiere",
+      "position": "Senior Web Developer",
+      "url": "",
+      "startDate": "2018-09-01",
+      "endDate": "2025-04-01",
+      "summary": "SAV management and development on PHP and JS stack.",
+      "highlights": [
+        "Technical study, architecture choices for projects and task distribution",
+        "Maintenance and development of various projects on Symfony / Prestashop / React and TypeScript"
+      ]
+    },
+    {
+      "name": "Proximity BBDO Indian Ocean",
+      "position": "Senior Web Developer",
+      "url": "",
+      "startDate": "2018-03-01",
+      "endDate": "2018-08-01",
+      "summary": "Design and development in varied environments.",
+      "highlights": [
+        "Optimization of the Kaufman site, splitting it into a ReactJS FrontEnd and a Drupal 8 BackEnd",
+        "Development of new content types and content retrieval via the Drupal CMS",
+        "Implementation of a web service call for content retrieval for a Twitter bot"
+      ]
+    },
+    {
+      "name": "Livenexx",
+      "position": "Lead Developer",
+      "url": "",
+      "startDate": "2017-06-01",
+      "endDate": "2018-02-01",
+      "summary": "Team management and design and development of various platforms under CakePHP/Symfony/Prestashop/Drupal/ReactJS.",
+      "highlights": [
+        "Maintenance and development of custom modules with Prestashop",
+        "Setting up an API provider for profile matching based on an affinity algorithm",
+        "Development of a dating site (BackEnd-FrontEnd) with ReactJS/NodeJS/MongoDB stack"
+      ]
+    },
+    {
+      "name": "Piloconsult",
+      "position": "Web Developer",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-06-01",
+      "summary": "Design and development on various platforms such as CakePHP/Symfony/Prestashop.",
+      "highlights": [
+        "Web application and REST API development with CakePHP",
+        "Cron job configuration on Linux Debian server",
+        "Data migration from Prestashop 1.4 to 1.6"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Anglican Church of Madagascar",
+      "location": "Madagascar",
+      "position": "CEO",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "summary": "Designer and developer of the platform of the Anglican Church of Madagascar.",
+      "highlights": [
+        "Technical study, creation of specifications and choice of project architecture",
+        "Creation of Android and iOS applications using React Native, Flutter and Android Java"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Institut Supérieur IESI, Université de Madagascar",
+      "location": "Madagascar",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2014-12-01",
+      "endDate": "2016-03-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Centre de Formation en Électronique, Université de Madagascar",
+      "location": "Madagascar",
+      "url": "",
+      "area": "Computer Science and Electronics",
+      "studyType": "Bachelor",
+      "startDate": "2010-12-01",
+      "endDate": "2012-03-01",
+      "score": "",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Web Development",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "CakePHP",
+        "Laravel",
+        "Symfony",
+        "WordPress",
+        "Prestashop",
+        "PostgreSQL",
+        "MySQL",
+        "Elasticsearch",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React JS / Native",
+        "NodeJS",
+        "Angular",
+        "VueJS",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Master",
+      "icon": "fa-solid fa-desktop",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Git",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "PhpStorm",
+        "VS Code",
+        "Android Studio",
+        "Trello",
+        "Jira"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Advanced",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Hobbies",
+      "icon": "fa-solid fa-star",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Reading",
+        "Music",
+        "Cooking",
+        "Photography",
+        "Video Editing",
+        "Video Games",
+        "Films",
+        "Fitness",
+        "Motocross"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": []
 }
