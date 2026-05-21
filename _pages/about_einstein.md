@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Versatile application developer (web/mobile/desktop) passionate about new technologies, with relevant experience in the PHP, SQL/MySQL and JavaScript ecosystem. Able to work autonomously, manage deadlines and integrate effectively into a team. I demonstrate excellent analytical skills and a strong team spirit.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Over the years I have worked across a wide range of stacks — from CakePHP, Symfony and Laravel on the backend, to React, Angular and VueJS on the frontend, with Node.js bridging both worlds. I am equally comfortable building REST APIs, architecting e-commerce platforms on Prestashop, or shipping cross-platform mobile apps with React Native and Flutter.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am based in Gembloux, Belgium and available for freelance missions or new opportunities. Feel free to reach out at [brichard.zafy@gmail.com](mailto:brichard.zafy@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/brichard-z).

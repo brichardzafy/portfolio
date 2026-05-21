@@ -16,12 +16,4 @@ profiles:
     more_info: >
       <p>00 32 465 49 70 17</p>
       <p>Gembloux, 5030</p>
-  - align: left
-    image: profile.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>00 32 465 49 70 17</p>
-      <p>Chaussée de charleroi</p>
-      <p>Gembloux, 5030</p>
 ---
