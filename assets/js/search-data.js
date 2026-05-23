@@ -413,6 +413,11 @@ ninja.data = [{
           description: "Peppol e-invoicing platform — maintainer &amp; developer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-fiestaclic",
+          title: 'FiestaClic',
+          description: "Marketplace platform for cake designers, bakeries and event caterers — maintainer &amp; fullstack developer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fiestaclic/";
             },},{id: "projects-laundries-dashboard",
           title: 'Laundries Dashboard',
           description: "Next.js back-office for managing connected laundries and their mobile app",
@@ -423,6 +428,11 @@ ninja.data = [{
           description: "Next.js 16 customer webapp for the Lavri connected laundry network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lavri-webapp/";
+            },},{id: "projects-pratisoins",
+          title: 'Pratisoins',
+          description: "French marketplace for wellness practitioners — maintainer &amp; fullstack developer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pratisoins/";
             },},{
         id: 'social-email',
         title: 'email',
