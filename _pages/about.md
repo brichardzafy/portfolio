@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Gembloux, 5030 — Belgium</p>
     <p>+32 465 49 70 17</p>
-    <p>brichard.zafy@gmail.com</p>
+    <p>brichard.zafy@icloud.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

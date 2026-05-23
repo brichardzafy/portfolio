@@ -426,6 +426,27 @@ ul.task-list input[type="checkbox"] {
         transition-property: all 0.2s ease-in-out;
       }
 
+      // Real brand color per platform
+      i.fa-envelope::before {
+        color: #ea4335; // Gmail red
+      }
+
+      i.fa-github::before {
+        color: #181717; // GitHub
+      }
+
+      i.fa-gitlab::before {
+        color: #fc6d26; // GitLab orange
+      }
+
+      i.fa-linkedin::before {
+        color: #0a66c2; // LinkedIn blue
+      }
+
+      i.fa-square-rss::before {
+        color: #ffa500; // RSS orange
+      }
+
       &:hover {
         text-decoration: none;
 
@@ -438,6 +459,17 @@ ul.task-list input[type="checkbox"] {
 
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+// GitHub's brand black is invisible on a dark background — use white there
+html[data-theme="dark"] .social .contact-icons a {
+  i.fa-github::before {
+    color: #ffffff;
+  }
+
+  &:hover i.fa-github::before {
+    color: var(--global-theme-color);
   }
 }
 

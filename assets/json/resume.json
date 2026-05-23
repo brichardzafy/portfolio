@@ -3,7 +3,7 @@
     "name": "Brichard ZAFY",
     "label": "Fullstack Developer",
     "image": "",
-    "email": "brichard.zafy@gmail.com",
+    "email": "brichard.zafy@icloud.com",
     "phone": "(32) 465497017",
     "url": "https://brichardzafy.github.io/portfolio",
     "summary": "Versatile application developer (web/mobile/desktop) passionate about new technologies, with relevant experience in the PHP, SQL/MySQL and JavaScript ecosystem. Able to work autonomously, manage deadlines and integrate effectively into a team. I demonstrate excellent analytical skills and a strong team spirit.",
@@ -23,6 +23,21 @@
     ]
   },
   "work": [
+    {
+      "name": "Beprosoft Venture",
+      "position": "Fullstack Developer Senior",
+      "url": "",
+      "startDate": "2026-04-16",
+      "endDate": "",
+      "summary": "Fullstack development of a Belgian Peppol e-invoicing and billing SaaS platform, built with Next.js, TypeScript and Prisma.",
+      "highlights": [
+        "Built the Peppol e-invoicing engine: UBL XML generation with embedded PDF and parsing of incoming UBL invoices",
+        "Integrated the itsme® digital-identity company-verification flow with multilingual support (FR/EN/NL)",
+        "Developed the invoice editor with discount management, compliant VAT/tax calculations, and PDF generation/viewer",
+        "Redesigned the payment page and built payment-methods and reminder modules with full internationalization",
+        "Built admin dashboards with server-side pagination (TanStack Query), document approval workflows, and React Email transactional emails"
+      ]
+    },
     {
       "name": "Freelance",
       "position": "Fullstack Developer",

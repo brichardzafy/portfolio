@@ -2,12 +2,26 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A selection of things I've built — from production fullstack apps to weekend experiments.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+<p>
+  Here is a curated collection of projects I've worked on as a fullstack developer.
+  The <strong>work</strong> section gathers professional and client projects where I focused on
+  building reliable, well-architected web applications — covering frontend, backend, APIs, databases
+  and deployment. The <strong>fun</strong> section showcases personal side projects and experiments
+  I built to explore new technologies, sharpen specific skills, or simply scratch an itch.
+</p>
+
+<p>
+  Each card below links to a dedicated page with screenshots, the tech stack used, the problems
+  I had to solve, and the lessons I took away from the build. Feel free to dive in — and if you'd
+  like to chat about any of them, you can reach me via the links on the <a href="{{ '/' | relative_url }}">about page</a>.
+</p>
 
 <!-- pages/projects.md -->
 <div class="projects">
