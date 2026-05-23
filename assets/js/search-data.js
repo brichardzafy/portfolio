@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A selection of things I&#39;ve built — from production fullstack apps to weekend experiments.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -408,57 +408,27 @@ ninja.data = [{
             },},{id: "news-certification-en-langue-anglais-après-avoir-passer-l-épreuve-certifiacte-of-achievement",
           title: 'Certification en langue Anglais après avoir passer l’épreuve : Certifiacte of Achievement.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-youinv",
+          title: 'YouInv',
+          description: "Peppol e-invoicing platform — maintainer &amp; developer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-laundries-dashboard",
+          title: 'Laundries Dashboard',
+          description: "Next.js back-office for managing connected laundries and their mobile app",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/laverie-dashboard/";
+            },},{id: "projects-lavri-webapp",
+          title: 'Lavri Webapp',
+          description: "Next.js 16 customer webapp for the Lavri connected laundry network",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/lavri-webapp/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%72%69%63%68%61%72%64.%7A%61%66%79@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%62%72%69%63%68%61%72%64.%7A%61%66%79@%69%63%6C%6F%75%64.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
