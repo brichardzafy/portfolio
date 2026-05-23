@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brichardzafy.github.io//sitemap.xml
+Sitemap: https://gh-bzafy.lead-code-group.com///sitemap.xml
