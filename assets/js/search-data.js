@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A selection of things I&#39;ve built — from production fullstack apps to weekend experiments.",
           section: "Navigation",
           handler: () => {
@@ -24,14 +24,14 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
@@ -378,17 +378,6 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
       },{id: "post-a-post-with-formatting-and-links",
         
           title: "a post with formatting and links",
@@ -408,12 +397,7 @@ ninja.data = [{
             },},{id: "news-certification-en-langue-anglais-après-avoir-passer-l-épreuve-certifiacte-of-achievement",
           title: 'Certification en langue Anglais après avoir passer l’épreuve : Certifiacte of Achievement.',
           description: "",
-          section: "News",},{id: "projects-youinv",
-          title: 'YouInv',
-          description: "Peppol e-invoicing platform — maintainer &amp; developer",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-fiestaclic",
+          section: "News",},{id: "projects-fiestaclic",
           title: 'FiestaClic',
           description: "Marketplace platform for cake designers, bakeries and event caterers — maintainer &amp; fullstack developer",
           section: "Projects",handler: () => {
@@ -433,6 +417,11 @@ ninja.data = [{
           description: "French marketplace for wellness practitioners — maintainer &amp; fullstack developer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pratisoins/";
+            },},{id: "projects-youinv",
+          title: 'YouInv',
+          description: "Peppol e-invoicing platform — maintainer &amp; developer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/youinv/";
             },},{
         id: 'social-email',
         title: 'email',
