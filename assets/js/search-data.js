@@ -397,7 +397,12 @@ ninja.data = [{
             },},{id: "news-certification-en-langue-anglais-après-avoir-passer-l-épreuve-certifiacte-of-achievement",
           title: 'Certification en langue Anglais après avoir passer l’épreuve : Certifiacte of Achievement.',
           description: "",
-          section: "News",},{id: "projects-fiestaclic",
+          section: "News",},{id: "projects-event-zaratof",
+          title: 'Event Zaratof',
+          description: "Personal event-photo platform with face-recognition-powered photo retrieval. Built from scratch as a fullstack solo project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/event-zaratof/";
+            },},{id: "projects-fiestaclic",
           title: 'FiestaClic',
           description: "Marketplace platform for cake designers, bakeries and event caterers — maintainer &amp; fullstack developer",
           section: "Projects",handler: () => {
@@ -412,11 +417,26 @@ ninja.data = [{
           description: "Next.js 16 customer webapp for the Lavri connected laundry network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lavri-webapp/";
+            },},{id: "projects-michalak",
+          title: 'Michalak',
+          description: "PrestaShop 1.6 store for pastry chef Christophe Michalak — backend developer &amp; maintainer (custom modules for shipping planning, order slips and POS sync)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/michalak/";
             },},{id: "projects-pratisoins",
           title: 'Pratisoins',
           description: "French marketplace for wellness practitioners — maintainer &amp; fullstack developer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pratisoins/";
+            },},{id: "projects-selima",
+          title: 'Selima',
+          description: "Fullstack solo project — a Symfony 7.3 backend (admin back-office + REST API + public front) paired with an Expo / React Native mobile app.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/selima/";
+            },},{id: "projects-sylius-systempay-plugin",
+          title: 'Sylius Systempay Plugin',
+          description: "Open-source Sylius plugin that integrates the Systempay (Lyra) payment gateway into Symfony / Sylius e-commerce stores.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sylius-systempay-plugin/";
             },},{id: "projects-youinv",
           title: 'YouInv',
           description: "Peppol e-invoicing platform — maintainer &amp; developer",
