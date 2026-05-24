@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A selection of things I've built — from production fullstack apps to weekend experiments.
 nav: true
